@@ -1,0 +1,149 @@
+[
+
+
+    {
+    "id":1,
+    "image": "/images/p1.png",
+    "category": "Health", 
+    "title" :"Clean water for children",
+    "price":"$290",
+    "cardBg" : "#fca5a5",
+    "categoryBg": "#f87171",
+    "titleTextcolor" : " #44403c"
+  
+    },
+
+    {
+    "id":2,
+    "image": "/images/p2.png",
+    "category": "Eduction", 
+    "title" :"Good education",
+    "price":"$290",
+    "cardBg" : "#86efac",
+    "categoryBg": " #4ade80",
+    "titleTextcolor" : "  #15803d"
+  
+    },
+
+    {
+    "id":3,
+    "image": "/images/p3.png",
+    "category": "Clothing", 
+    "title" :"Used Clothing Drive",
+    "price":"$290",
+    "cardBg" : "#93c5fd",
+    "categoryBg": "#60a5fa",
+    "titleTextcolor" : "#1d4ed8"
+  
+    },
+
+    {
+    "id":4,
+    "image": "/images/p4.png",
+    "category": "Food", 
+    "title" :"Better Food for Everyone",
+    "price":"$290",
+    "cardBg" : "#fca5a5",
+    "categoryBg": "#f87171",
+    "titleTextcolor" : " #44403c"
+  
+    },
+
+    {
+    "id":5,
+    "image": "/images/p4.png",
+    "category": "Food",
+    "title" :"Better Food for Everyone",
+    "price":"$290",
+    "cardBg" : "#86efac",
+    "categoryBg": " #4ade80",
+    "titleTextcolor" : "  #15803d"
+  
+    },
+
+    {
+    "id":6,
+    "image": "/images/p3.png",
+    "category": "Clothing", 
+    "title" :"Used Clothing Drive",
+    "price":"$290",
+    "cardBg" : "#93c5fd",
+    "categoryBg": "#60a5fa",
+    "titleTextcolor" : "#1d4ed8"
+
+    },
+
+    {
+    "id":7,
+    "image": "/images/p2.png",
+    "category": "Eduction", 
+    "title" :"Good education",
+    "price":"$290",
+    "cardBg" : "#fca5a5",
+    "categoryBg": "#f87171",
+    "titleTextcolor" : " #44403c"
+    },
+
+    {
+    "id":8,
+    "image": "/images/p1.png",
+    "category": "Health", 
+    "title" :"Clean water for children",
+    "price":"$290",
+    "cardBg" : "#86efac",
+    "categoryBg": " #4ade80",
+    "titleTextcolor" : "  #15803d"
+  
+    },
+
+    {
+    "id":9, 
+    "image": "/images/p1.png",
+    "category": "Health", 
+    "title" :"Clean water for children",
+    "price":"$290",
+    "cardBg" : "#93c5fd",
+    "categoryBg": "#60a5fa",
+    "titleTextcolor" : "#1d4ed8"
+  
+    },
+
+    {
+    "id":10,
+    "image": "/images/p2.png",
+    "category": "Eduction", 
+    "title" :"Good education",
+    "price":"$290",
+    "cardBg" : "#fca5a5",
+    "categoryBg": "#f87171",
+    "titleTextcolor" : " #44403c"
+  
+    },
+
+    {
+    "id":11,
+    "image": "/images/p3.png",
+    "category": "Clothing",
+    "title" :"Used Clothing Drive",
+    "price":"$290",
+    "cardBg" : "#93c5fd",
+    "categoryBg": "#60a5fa",
+    "titleTextcolor" : "#1d4ed8"
+  
+    },
+
+    {
+    "id":12,
+    "image": "/images/p4.png",
+    "category": "Food", 
+    "title" :"Better Food for Everyone",
+    "price":"$290",
+    "categoryBg": "#60a5fa",
+    "cardBg": "#93c5fd",
+    "titleTextcolor": "#1d4ed8"
+    
+  
+    }
+
+    
+    ]
